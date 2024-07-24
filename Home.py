@@ -1,2 +1,2 @@
 course = 'Python for Beginners'
-print(course[-2])
+print(course[0:3])
