@@ -1,5 +1,4 @@
-birth_year = input('Birth year: ')
-print(type(birth_year))
-age = 2024 - int(birth_year)
-print(type(age))
-print(age)
+pound = input('Enter the pound: ')
+rate = 0.453592
+kilogram = float(pound) * rate
+print(str(pound) + ' is ' + str(kilogram) + ' kilograms')
