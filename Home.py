@@ -1,4 +1,11 @@
-pound = input('Enter the pound: ')
-rate = 0.453592
-kilogram = float(pound) * rate
-print(str(pound) + ' is ' + str(kilogram) + ' kilograms')
+course = '''
+Hi Jay,
+
+Here is our first email to you.
+
+Thank you,
+The support team
+
+'''
+
+print(course)
